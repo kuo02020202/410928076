@@ -51,6 +51,8 @@ D:\410928076 郭旻臻\WebApplication410928076\WebApplication1\bin\roslyn\vbc.rs
 D:\410928076 郭旻臻\WebApplication410928076\WebApplication1\bin\roslyn\VBCSCompiler.exe
 D:\410928076 郭旻臻\WebApplication410928076\WebApplication1\bin\roslyn\VBCSCompiler.exe.config
 D:\410928076 郭旻臻\WebApplication410928076\WebApplication1\bin\Antlr3.Runtime.dll
+D:\410928076 郭旻臻\WebApplication410928076\WebApplication1\bin\EntityFramework.dll
+D:\410928076 郭旻臻\WebApplication410928076\WebApplication1\bin\EntityFramework.SqlServer.dll
 D:\410928076 郭旻臻\WebApplication410928076\WebApplication1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
 D:\410928076 郭旻臻\WebApplication410928076\WebApplication1\bin\Microsoft.Web.Infrastructure.dll
 D:\410928076 郭旻臻\WebApplication410928076\WebApplication1\bin\Newtonsoft.Json.dll
@@ -62,6 +64,8 @@ D:\410928076 郭旻臻\WebApplication410928076\WebApplication1\bin\System.Web.We
 D:\410928076 郭旻臻\WebApplication410928076\WebApplication1\bin\System.Web.WebPages.dll
 D:\410928076 郭旻臻\WebApplication410928076\WebApplication1\bin\System.Web.WebPages.Razor.dll
 D:\410928076 郭旻臻\WebApplication410928076\WebApplication1\bin\WebGrease.dll
+D:\410928076 郭旻臻\WebApplication410928076\WebApplication1\bin\EntityFramework.xml
+D:\410928076 郭旻臻\WebApplication410928076\WebApplication1\bin\EntityFramework.SqlServer.xml
 D:\410928076 郭旻臻\WebApplication410928076\WebApplication1\bin\System.Web.Helpers.xml
 D:\410928076 郭旻臻\WebApplication410928076\WebApplication1\bin\System.Web.Mvc.xml
 D:\410928076 郭旻臻\WebApplication410928076\WebApplication1\bin\System.Web.Optimization.xml
@@ -72,6 +76,7 @@ D:\410928076 郭旻臻\WebApplication410928076\WebApplication1\bin\System.Web.We
 D:\410928076 郭旻臻\WebApplication410928076\WebApplication1\bin\Newtonsoft.Json.xml
 D:\410928076 郭旻臻\WebApplication410928076\WebApplication1\bin\Antlr3.Runtime.pdb
 D:\410928076 郭旻臻\WebApplication410928076\WebApplication1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\410928076 郭旻臻\WebApplication410928076\WebApplication1\bin\zh-Hant\EntityFramework.resources.dll
 D:\410928076 郭旻臻\WebApplication410928076\WebApplication1\bin\zh-Hant\System.Web.Helpers.resources.dll
 D:\410928076 郭旻臻\WebApplication410928076\WebApplication1\bin\zh-Hant\System.Web.Mvc.resources.dll
 D:\410928076 郭旻臻\WebApplication410928076\WebApplication1\bin\zh-Hant\System.Web.Optimization.resources.dll
